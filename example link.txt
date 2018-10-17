@@ -1,0 +1,7 @@
+https://getbootstrap.com/docs/4.0/utilities/flex/
+
+https://medium.com/codingthesmartway-com-blog/introduction-to-bootstrap-4-flex-layout-flexbox-for-bootstrap-f85405ce5ebf
+
+https://bootstrap4-flex.surge.sh/
+
+https://bootsnipp.com/snippets/O5v0O
